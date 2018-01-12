@@ -1,7 +1,7 @@
 /*!
         \file                BasePGAnalysis.cc
         \brief               Example user code for Analysis
-        \author              Suvankar Roy Chowdhury, Rajarshi Bhattacharya
+        \author              Suvankar, Alessandro
         \date                05/07/16
         Support :            mail to : suvankar.roy.chowdhury@cern.ch, rajarshi.bhattacharya@cern.ch
 */
